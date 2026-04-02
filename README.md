@@ -315,9 +315,7 @@ curl -X PUT "PASTE_UPLOAD_URL" \
 
 * AWS S3
 * AWS Lambda
-* AWS CloudFront
 * AWS IAM
-* AWS SQS (DLQ)
 * AWS KMS
 
 
